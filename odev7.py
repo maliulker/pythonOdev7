@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 name = "Muhammed Ali"
 surname = "ULKER"
-student_id = "211213007"
+student_id = "211213"
 
 def generate_points():
     MIN_VALUE = 0
